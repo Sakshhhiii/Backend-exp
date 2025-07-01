@@ -14,3 +14,6 @@ const connectDB = async () =>{
     }
 }
 export default connectDB
+
+
+// cookie parser, middlware or config settings(app.use)
